@@ -29,7 +29,7 @@ Com o ambiente Docker em execução, agora você pode iniciar o projeto Spring B
 
 Abra o projeto em sua IDE e execute-o. Certifique-se de que todas as dependências sejam baixadas e o projeto seja compilado com sucesso.
 
-Após a inicialização bem-sucedida, você pode acessar o aplicativo em http://localhost:8080 no seu navegador.
+Após a inicialização bem-sucedida, você pode acessar o aplicativo em http://localhost:8081 no seu navegador.
 
 Avaliação do Artigo
 Agora que o projeto está em execução, você pode avaliar o conteúdo do artigo relacionado a Spring Boot. Certifique-se de seguir as instruções fornecidas no artigo e compare-as com o que foi implementado neste projeto.
