@@ -59,8 +59,8 @@ public class UserController {
     public ResponseEntity delete(@PathVariable Long id) {
         boolean deleted = service.delete(id);
 
-        if(deleted) return ResponseEntity.noContent().build();
+        if(!deleted) return ResponseEntity.notFound().build();
 
-        return ResponseEntity.notFound().build();
+        return ResponseEntity.noContent().build();
     }
 }
