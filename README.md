@@ -37,6 +37,8 @@ Agora que o projeto está em execução, você pode avaliar o conteúdo do artig
 Contribuições
 Se você deseja contribuir para este projeto ou reportar problemas, sinta-se à vontade para abrir uma issue ou enviar um pull request. Estamos abertos a melhorias e feedback da comunidade.
 
+## Documentação das rotas no Postman
+* [Documentação Postman](https://documenter.getpostman.com/view/16330125/2s9YR3dFyG)
 ## Documentação de Referência
 Para mais informações, considere as seguintes seções:
 
